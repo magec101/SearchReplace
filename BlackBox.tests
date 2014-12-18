@@ -1,0 +1,23 @@
+[
+    {
+        "1": {
+            "input": "VINAY VI TA",
+            "output": "TANAY",
+            "type": "CLI"
+        }
+    },
+    {
+        "2": {
+            "input": "INFOSYS SYS HIS",
+            "output": "INFOHIS",
+            "type": "STDIN"
+        }
+    },
+    {
+        "3": {
+            "input": "SHEEP SH HE",
+            "output": "HEEEP",
+            "type": "STDIN"
+        }
+    }
+]

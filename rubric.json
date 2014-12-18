@@ -1,0 +1,64 @@
+{
+    "criteria": {
+        "blackboxtests": [
+            {
+                "checkName": "1",
+                "checkType": "BlackBoxTest",
+                "group": "blackboxtests",
+                "penalty": "",
+                "rule": {
+                    "input": "VINAY VI TA",
+                    "output": "TANAY",
+                    "type": "CLI"
+                },
+                "score": "",
+                "visible": "all"
+            },
+            {
+                "checkName": "2",
+                "checkType": "BlackBoxTest",
+                "group": "blackboxtests",
+                "penalty": "",
+                "rule": {
+                    "input": "INFOSYS SYS HIS",
+                    "output": "INFOHIS",
+                    "type": "STDIN"
+                },
+                "score": "",
+                "visible": "all"
+            },
+            {
+                "checkName": "3",
+                "checkType": "BlackBoxTest",
+                "group": "blackboxtests",
+                "penalty": "",
+                "rule": {
+                    "input": "SHEEP SH HE",
+                    "output": "HEEEP",
+                    "type": "STDIN"
+                },
+                "score": "",
+                "visible": "all"
+            }
+        ],
+        "system": [
+            {
+                "checkName": "Compilation",
+                "checkType": "compile",
+                "group": "system",
+                "penalty": "",
+                "rule": {
+                    "deprecation_ignore": "",
+                    "warnings_ignore": ""
+                },
+                "score": "0",
+                "visible": "eval"
+            }
+        ]
+    },
+    "weightage": {
+        "blackboxtests": "undefined",
+        "system": "100"
+    },
+    "lastSaved": "20141218 152925"
+}
