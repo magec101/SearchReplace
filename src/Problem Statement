@@ -1,0 +1,4 @@
+Write a Program which takes input as 3 strings namely: Main String, Search String, Replace String.
+The Program searches for the 'Search String' in the 'Main String' and if found, replaces it with the 'Replace String'. 
+The Program prints the modified 'Main String' as the Output. 
+For example, Inputs: Main String : Concatenate Search String: cat Replace String: mat Expected Output: Conmatenate
